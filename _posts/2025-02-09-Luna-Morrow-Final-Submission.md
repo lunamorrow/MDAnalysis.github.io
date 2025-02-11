@@ -10,7 +10,7 @@ I can’t believe I am at the end of GSoC! This past 6 months has absolutely flo
 
 # Why a converter
 
-Direct interoperability between molecular dynamics software is critical for enabling collaboration, data transfer and straightforward use by scientists. OpenBabel is a popular toolbox for chemical molecular modelling research as it enables searching, conversions, analysis and data storage. The ability to interconvert chemical file formats with OpenBabel, in particular, opens up the ability to utilise and work with other packages, as OpenBabel enables input and writing of over 100 chemical data file formats. Therefore, enabling an MDAnalysis Universe to be inter-converted with an OpenBabel OBMol would greatly increase the data formats available to MDAnalysis. Furthermore, it would encourage greater adoption of MDAnalysis as an “all-in-one” package for molecular dynamics analysis.
+Direct interoperability between molecular dynamics software is critical for enabling collaboration, data transfer and straightforward use by scientists. [OpenBabel](https://openbabel.org/) is a popular toolbox for chemical molecular modelling research as it enables searching, conversions, analysis and data storage. The ability to interconvert chemical file formats with OpenBabel, in particular, opens up the ability to utilise and work with other packages, as OpenBabel enables input and writing of over 100 chemical data file formats. Therefore, enabling an MDAnalysis Universe to be inter-converted with an OpenBabel OBMol would greatly increase the data formats available to MDAnalysis. Furthermore, it would encourage greater adoption of MDAnalysis as an “all-in-one” package for molecular dynamics analysis.
 
 
 # From OpenBabel to MDAnalysis
