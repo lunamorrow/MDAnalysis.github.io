@@ -5,7 +5,7 @@ title: Luna Morrow GSoC 2024 Final Submission Blog
 
 # Luna Morrow GSoC 2024 Final Submission Blog
 
-I can’t believe I am at the end of GSoC! This past 6 months has absolutely flown by, but I have learnt so much. I am really grateful for the amazing support I have had along the way from my mentors Hugo (hmacdope), Cédric (cbouy) and Xu (xhgchen). My body of work can be located on the MDAnalysis GitHub at [mda-openbabel-converter](https://github.com/MDAnalysis/mda-openbabel-converter).
+I can’t believe I am at the end of GSoC! This past 6 months has absolutely flown by, but I have learnt so much. I am really grateful for the amazing support I have had along the way from my mentors Hugo ( @hmacdope ), Cédric ( @cbouy ) and Xu ( @xhgchen ). My body of work can be located on the MDAnalysis GitHub at [mda-openbabel-converter](https://github.com/MDAnalysis/mda-openbabel-converter).
 
 
 # Why a converter
